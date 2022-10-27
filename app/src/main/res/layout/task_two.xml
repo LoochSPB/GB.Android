@@ -88,6 +88,5 @@
         android:textColor="@color/gray"
         android:textColorHint="@color/gray"
         android:textSize="24sp" />
-    />
 
 </LinearLayout>
